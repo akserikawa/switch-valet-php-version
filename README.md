@@ -1,4 +1,4 @@
-# valet-php-version-switch-shell-script
+# Switch PHP versions in Laravel Valet+
 A simple shell script to switch the PHP version for Laravel Valet+ using ZSH.
 
 Create a hidden file in your users folder:
