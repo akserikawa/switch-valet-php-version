@@ -22,7 +22,7 @@ Perfect. Now we need to add some aliases to run the command from the terminal.
 Add these lines to the bottom of your `~/.zshrc` file:
 ```
 alias php56="phpv valet-php@5.6"
-# add here whichever version you want to run
+# ...
 alias php73="phpv valet-php@7.3"
 
 source ~/.switch-valet-php-version.sh
